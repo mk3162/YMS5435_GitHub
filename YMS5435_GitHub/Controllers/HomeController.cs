@@ -10,7 +10,6 @@ namespace YMS5435_GitHub.Controllers
     {
         public ActionResult Index()
         {
-            ///fdfsgsdsdhhssd
             string a = "sfdfsdf";
             int x = 345;
             char c = 'g';
