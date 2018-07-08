@@ -14,6 +14,7 @@ namespace YMS5435_GitHub.Controllers
             string a = "sfdfsdf";
             int x = 345;
             char c = 'g';
+            double sayi = 7.8;
             return View();
         }
     }
