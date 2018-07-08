@@ -6,11 +6,14 @@ using System.Web.Mvc;
 
 namespace YMS5435_GitHub.Controllers
 {
-    public class HomkeController : Controller
+    public class HomeController : Controller
     {
-        // GET: Homke
         public ActionResult Index()
         {
+            ///fdfsgsdsdhhssd
+            string a = "sfdfsdf";
+            int x = 345;
+            char c = 'g';
             return View();
         }
     }
