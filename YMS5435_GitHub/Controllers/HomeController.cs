@@ -11,7 +11,6 @@ namespace YMS5435_GitHub.Controllers
             char c = 'g';
             double sayi = 7.8;
             double sayi2 = 65.5;
-            int b = 4;
             return View();
         }
     }
